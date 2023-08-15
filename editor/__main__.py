@@ -37,7 +37,7 @@ class Core:
         pygame.display.update()
 
     def _draw(self):
-        self.screen.fill((30, 31, 20))
+        self.screen.fill((180, 180, 180))
 
     def run(self):
         while True:
